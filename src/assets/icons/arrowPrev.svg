@@ -1,0 +1,24 @@
+<svg
+  viewBox="0 0 43 42"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  width="48"
+  height="48"
+>
+  <path
+    d="M21.5908 14L14.5908 21L21.5908 28M14.5908 21L28.5908 21"
+    stroke="black"
+    strokeWidth="1.85714"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  />
+  <rect
+    x="1.51939"
+    y="0.928571"
+    width="40.1429"
+    height="40.1429"
+    rx="20.0714"
+    stroke="black"
+    strokeWidth="1.85714"
+  />
+</svg>

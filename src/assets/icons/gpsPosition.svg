@@ -1,0 +1,26 @@
+<svg
+  viewBox="0 0 31 41"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  width='31'
+  height='41'
+>
+  <svg
+    width="82"
+    height="83"
+    viewBox="0 0 82 83"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <circle opacity="0.15" cx="41" cy="42" r="41" fill="#061AB1" />
+    <circle
+      cx="7"
+      cy="7"
+      r="8.5"
+      transform="matrix(-1 0 0 1 48 35)"
+      fill="#061AB1"
+      stroke="white"
+      strokeWidth="3"
+    />
+  </svg>
+</svg>

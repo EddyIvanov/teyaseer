@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /icons
+Disallow: /authenticate
+Disallow: /comp-playground
+
+Sitemap: https://www.teyaseer.ae/sitemap.xml

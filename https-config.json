@@ -1,0 +1,9 @@
+{
+  "localhost-proxy": {
+    "source": 443,
+    "target": 3000,
+    "hostname": "qa.teyaseer.ae",
+    "key": "localhost.key",
+    "cert": "localhost.cert"
+  }
+}

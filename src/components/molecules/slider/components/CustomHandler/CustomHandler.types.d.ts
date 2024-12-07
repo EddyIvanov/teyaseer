@@ -1,0 +1,1 @@
+type TDirection = 'left' | 'right';
